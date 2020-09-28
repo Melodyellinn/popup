@@ -1,0 +1,24 @@
+header {
+    position: fixed;
+    background-color: darkred;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 50px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu {
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+
+main {
+    width: 600px;
+    margin: auto;
+}
